@@ -1,189 +1,111 @@
-# 💫 Hi, I'm Muhammad Faheem Raziq
+# 💫 Hi, I'm Umer Saleem  
+**Full Stack Web Developer | Laravel Specialist | Software Engineer (Pakistan 🇵🇰)**
 
-### 🎓 Bioinformatician | AI Researcher | Computational Biologist | Data Scientist 🇵🇰
-
-📧 Email: your-email@example.com  
-🔗 LinkedIn: your-linkedin-profile  
-🌐 Portfolio/Website: your-website (if available)
+📧 Email: **umer.saleem.abbasi109@gmail.com**  
+📱 WhatsApp: **0312-2096659**
 
 ---
 
 ## 👨‍💻 About Me
 
-🔬 Passionate about Bioinformatics, Artificial Intelligence, and Computational Biology
-
-🧬 Experienced in Genomics, Metagenomics, Microbiome Analysis, and Multi-Omics Data Integration
-
-🤖 Interested in Machine Learning, Deep Learning, and AI-driven Healthcare Solutions
-
-📊 Skilled in Statistical Analysis, Data Visualization, and Biological Data Mining
-
-🎓 MS Bioinformatics Graduate from NUST
-
-🌱 Currently exploring:
-- AI for Precision Medicine
-- Host-Microbiome Interactions
-- Large Language Models (LLMs)
-- Multi-Omics Integration
-- Genotype Imputation & Biomarker Discovery
-
-💬 Ask me about:
-Bioinformatics, Genomics, Metagenomics, Machine Learning, Python, R, Statistics, and Data Analysis
-
-⚡ Fun Fact:
-I enjoy transforming biological data into meaningful discoveries through computational approaches.
+- 🔭 Working on **Laravel-based web applications & admin dashboards**
+- 🌱 Currently learning **Advanced Laravel, React integration & system optimization**
+- 👯 Open to collaboration on **Laravel apps, REST APIs & dashboards**
+- 🤔 Interested in **scalable backend architecture & performance tuning**
+- 💬 Ask me about **Laravel, PHP, MySQL, React, and API development**
+- ⚡ Fun fact: I love turning complex problems into clean, working systems ☕
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 
-[LinkedIn](https://linkedin.com/in/your-profile)
-
-[ResearchGate](https://researchgate.net/profile/your-profile)
-
-[Google Scholar](https://scholar.google.com)
-
-[Email](mailto:your-email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/candycode153)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umer-saleem-4154ba1ba)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@webtechwithdx9544)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:umer.saleem.abbasi109@gmail.com)
 
 ---
 
-## 💻 Technical Skills
+## 🐍 Contribution Snake
 
-### 🧬 Bioinformatics & Computational Biology
-
-- Metagenomic Analysis
-- Microbiome Research
-- Whole Genome Sequencing (WGS)
-- Variant Calling & SNP Analysis
-- Genome Assembly & Annotation
-- Phylogenetic Analysis
-- Functional Annotation
-- Multi-Omics Integration
-- Biomarker Discovery
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</div>
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 💻 Tech Stack
 
-- Machine Learning
-- Deep Learning
-- Predictive Modeling
-- Classification & Regression
-- Feature Engineering
-- Data Mining
-- NLP Fundamentals
-- AI in Healthcare
-
----
-
-### 📊 Data Science & Statistics
-
-- Descriptive Statistics
-- Inferential Statistics
-- Hypothesis Testing
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-- Regression Analysis
-- Statistical Modeling
+### 🧠 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
-### 🛠️ Bioinformatics Tools
-
-- QIIME2
-- Kraken2
-- MetaPhlAn
-- HUMAnN
-- Snippy
-- Prokka
-- BWA
-- Bowtie2
-- SAMtools
-- BEDTools
-- FastQC
-- MultiQC
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### 📚 Libraries & Frameworks
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- Matplotlib
-- Seaborn
-- Plotly
-- Tidyverse
-- Bioconductor
+### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-### ☁️ Platforms & Tools
-
-- Linux
-- Git & GitHub
-- Docker
-- Jupyter Notebook
-- VS Code
-- HPC Clusters
-- AWS (Basic)
+### 🛠️ Tools & Platforms
+Git • GitHub • GitLab • Jira • Vite • NPM • Apache • Linux (basic)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umersaleem98&theme=dark&show_icons=true&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Umersaleem98&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Research Interests
-
-🧬 Microbiome Research
-
-🧠 Artificial Intelligence in Healthcare
-
-🔬 Computational Genomics
-
-📊 Multi-Omics Data Integration
-
-💊 Precision Medicine
-
-🦠 Antibiotic Resistance Analysis
-
-🌱 Microbial Evolution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umersaleem98&layout=compact&theme=dark)
 
 ---
 
-## 📖 Current Focus
+## 🏆 GitHub Trophies
 
-- PhD Research Opportunities
-- AI-Based Multi-Omics Integration
-- Microbiome Biomarker Discovery
-- Machine Learning for Biological Data
-- Genomic Data Analysis
+![](https://github-profile-trophy.vercel.app/?username=Umersaleem98&theme=radical&no-frame=true&margin-w=4)
 
 ---
 
-### ✍️ Favorite Quote
+## ✍️ Dev Quote
 
-> "The goal is to turn data into information, and information into insight."
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐ If you find my work useful, consider starring my repositories!
+---
+
+## 🔝 Top Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Umersaleem98&limit=5&theme=dark)
+
+---
+
+## 👁️ Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=Umersaleem98&icon=0&color=0)](https://visitcount.itsvg.in)
